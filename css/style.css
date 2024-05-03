@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  color: #515076;
+}
+
+.main-content {
+  width: 1110px;
+  padding: 0 85px;
+  margin: 0 auto;
+}
+
+.products {
+  padding-top: 200px;
+  padding-bottom: 120px;
+
+  background-image: url('../img/bg.png');
+  background-repeat: no-repeat;
+}
+
+.products h2 {
+  margin: 0;
+  margin-bottom: 110px;
+
+  font-size: 70px;
+  line-height: 77px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.cards {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+
+  margin-bottom: 60px;
+}
+
+.card {
+  background-color: #f7f7fa;
+}
+
+.card-img {
+  display: block;
+  margin-bottom: 30px;
+}
+
+.card-title {
+  font-size: 20px;
+  line-height: 27px;
+}
+
+.card-category {
+  font-size: 12px;
+  line-height: 24px;
+  color: #a5a3b9;
+  text-transform: uppercase;
+}
+
+.card-price {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.card-price-name {
+  font-weight: bold;
+}
