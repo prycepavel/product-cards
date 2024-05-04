@@ -57,18 +57,34 @@ body {
   margin-bottom: 30px;
 }
 
-.card-title {
-  margin: 0;
-  font-size: 20px;
-  line-height: 27px;
-}
-
 .card-category {
   margin: 0;
   font-size: 12px;
   line-height: 24px;
   color: #a5a3b9;
   text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.card-title {
+  margin: 0;
+  font-size: 20px;
+  line-height: 27px;
+  margin-bottom: 5px;
+}
+
+.card-description {
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+.card-features-title {
+  margin: 0;
+}
+
+.card-features {
+  margin: 0;
+  padding: 0;
 }
 
 .card-price {
@@ -79,17 +95,4 @@ body {
 
 .card-price-name {
   font-weight: bold;
-}
-
-.card-description {
-  margin: 0;
-}
-
-.card-features-title {
-  margin: 0;
-}
-
-.card-features {
-  margin: 0;
-  padding: 0;
 }
