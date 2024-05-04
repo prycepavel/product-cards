@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
 
@@ -40,6 +44,8 @@ body {
 }
 
 .card {
+  width: 340px;
+  padding: 25px;
   background-color: #f7f7fa;
 }
 
