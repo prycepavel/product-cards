@@ -80,11 +80,17 @@ body {
 
 .card-features-title {
   margin: 0;
+  margin-bottom: 5px;
 }
 
 .card-features {
   margin: 0;
   padding: 0;
+  margin-bottom: 25px;
+}
+
+.card-features li {
+  margin-bottom: 5px;
 }
 
 .card-price {
